@@ -1,9 +1,6 @@
 # Rickaby-Hardware-Analysis
 Revenue and Profit Analysis for Rickaby Hardware
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 *Please check my [Portfolio](https://saco1621.github.io/Conerlious_Datascience_portfolio/) for more projects. *
 
