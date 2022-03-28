@@ -1,9 +1,5 @@
----
-title: "Revenue and Profit Analysis: Rickaby Hardware"
-author: "Conerlious Zechariah Sagandira"
-date: "`r Sys.Date()`"
-output: html_document
----
+# Rickaby-Hardware-Analysis
+Revenue and Profit Analysis for Rickaby Hardware
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
