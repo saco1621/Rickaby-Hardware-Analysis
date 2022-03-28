@@ -1,4 +1,3 @@
-
 ---
 title: "Revenue and Profit Analysis: Rickaby Hardware"
 author: "Conerlious Zechariah Sagandira"
